@@ -29,10 +29,10 @@ switch(tip) {
     break;
 
     case 'not as generous':
-    tip = 'Thank you.'
+    res = 'Thank you.'
       break;
       case 'thanks for everything':
-      tip = 'Bye.'
+      res = 'Bye.'
 }
 
 }
