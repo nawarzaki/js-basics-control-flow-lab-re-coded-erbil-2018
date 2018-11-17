@@ -34,5 +34,5 @@ switch(tip) {
       case 'thanks for everything':
       res = 'Bye.'
 }
-
+return res
 }
