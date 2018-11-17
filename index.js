@@ -21,8 +21,8 @@ return ternaryCheckCity
 }
 
 function switchOnCharmFromTip(l) {
-let tip = ""
-switch (l) {
+let l = ""
+switch (tip) {
   case 'generous':
   tip = 'Thank you so much.'
     break;
