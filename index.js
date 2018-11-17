@@ -20,9 +20,9 @@ if(city === 'NYC' ?  true : false) {
 return ternaryCheckCity
 }
 
-let res = ""
-function switchOnCharmFromTip(tip) {
 
+function switchOnCharmFromTip(tip) {
+let res;
 switch(tip) {
   case 'generous':
   res = 'Thank you so much.';
